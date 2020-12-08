@@ -1,3 +1,5 @@
 # Project exclude paths
 /venv/
 .idea
+#we don't talk about day 7
+/Day7/
